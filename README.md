@@ -31,19 +31,6 @@
 
 ---
 
-### 📊 GitHub Stats & Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imbivek08&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imbivek08&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbivek08&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🧠 Currently Learning
 
 * Golang for backend & tooling
